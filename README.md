@@ -6,4 +6,4 @@ This is not a working project, but has textures that can be used. The lighting c
 It uses Unity 2019.3.15f1.
 
 ## Attribution
-If you use parts of this project in any public work, please provide attribution somewhere to Hope E. Moore and link to [http://www.hopemoore.com](HopeMoore.com) or the 100 Days of Shaders and Textures project.
+If you use parts of this project in any public work, please provide attribution somewhere to Hope E. Moore and link to [http://www.hopemoore.com](HopeMoore.com) or the [100 Days of Shaders and Textures](https://hopemoore.com/100days) project.
